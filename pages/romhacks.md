@@ -25,3 +25,8 @@ categories: speedrun
 | Super Barb Bros | LuckyLewin | 2018-05-21 | [ips]({{ site.baseurl }}/assets/patches/SuperBarbBros.ips) | [rh.net](https://www.romhacking.net/hacks/4004/) |
 | Castle Mario Bros 3 | ramheroe | 2018-05-05 | [ips]({{ site.baseurl }}/assets/patches/Castle Mario Bros 3.ips) | [rh.net](https://www.romhacking.net/hacks/3988/) |
 | Super Randy Bros. 3 | SKJyannick | 2018-04-13 | [ips]({{ site.baseurl }}/assets/patches/Super_Randy_Bros._3.ips) | [rh.net](https://www.romhacking.net/hacks/4701/) |
+| Kawa Mario Bros 3 | ramheroe | 2017-04-11 | [ips]({{ site.baseurl }}/assets/patches/Kawa Mario Bros 3.ips) | [rh.net](https://www.romhacking.net/hacks/3438/) |
+| Kamikaze Bros. 3 | Barbarian | 2016-10-26 | [ips]({{ site.baseurl }}/assets/patches/KamikazeBros3.ips) | [rh.net](https://www.romhacking.net/hacks/3157/) |
+| Super POO Bros. 3 | ChaosComposer | 2016-08-28 | [ips]({{ site.baseurl }}/assets/patches/Super POO Bros. 3  v1.2.ips) | [rh.net](https://www.romhacking.net/hacks/3040/) |
+| Super Mario in The Final Kaizo | Mitchflowerpower | 2016-07-19 | [ips]({{ site.baseurl }}/assets/patches/Super Mario in The Final Kaizo Bros3.ips) | [rh.net](https://www.romhacking.net/hacks/2940/) |
+| Kaizo Mario Bros 3 | Hunter W | 2015-07-04 | [ips]({{ site.baseurl }}/assets/patches/Kaizo Mario Bros 3.ips) | [rh.net](https://www.romhacking.net/hacks/2477/) |
