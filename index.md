@@ -8,6 +8,8 @@ title: "SMB3 Romhacks"
 
 Read-only replica for smb3 romhacks
 
+[Kaizo]({{ site.baseurl }}{% link pages/kaizo.md %})
+
 [Romhacks]({{ site.baseurl }}{% link pages/romhacks.md %})
 
 [Links]({{ site.baseurl }}{% link pages/links.md %})
