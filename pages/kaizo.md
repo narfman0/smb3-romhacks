@@ -13,7 +13,7 @@ categories: speedrun kaizo romhacks
 | Gadien's Spring Cleaning | Jabem | 2021-11-16 | [ips]({{ site.baseurl }}/assets/patches/Gadiens Spring Cleaning.ips) | [rh.net](https://www.romhacking.net/hacks/6527/) |
 | Kawa Mario Bros 3 Light | ramheroe | 2021-01-13 | [ips]({{ site.baseurl }}/assets/patches/Kawa Mario Bros 3 Light.ips) | [rh.net](https://www.romhacking.net/hacks/5653/) |
 | Kawa Mario Bros. 3.0 | ramheroe | 2021? | [ips]({{ site.baseurl }}/assets/patches/Kawa Mario Bros 3.0.ips) | |
-| Super Waw-is Bros. 3 | ramheroe | 2021? | [ips]({{ site.baseurl }}/assets/patches/Super Waw-is Bros 3.ips) | |
+| Super Waw-is Bros. 3 | ramheroe | 2021? | [ips]({{ site.baseurl }}/assets/patches/Super Waw-is Bros 3.ips) | [local]({{ site.baseurl }}{% link pages/super_wawis_bros_3.md %}) |
 | Super Miem Bros. 3 | ramheroe | 2021? | [ips]({{ site.baseurl }}/assets/patches/Super Miem Bros 3.ips) | |
 | Super Orb Bros | Or4ng33xp0 | 2020-09-02 | [ips]({{ site.baseurl }}/assets/patches/super-orb-bros-v1.0-PRG0.ips) | [rh.net](https://www.romhacking.net/hacks/5384/) |
 | Haxor's Grocery Run | Jabem | 2020-06-16 | [ips]({{ site.baseurl }}/assets/patches/Haxor_Grocery_Run_2_0.ips) | [rh.net](https://www.romhacking.net/hacks/6523/) |
