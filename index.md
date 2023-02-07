@@ -10,6 +10,8 @@ Read-only replica for smb3 romhacks
 
 [Kaizo]({{ site.baseurl }}{% link pages/kaizo.md %})
 
+[Romhack Race Levels]({{ site.baseurl }}{% link pages/rhr.md %})
+
 [Romhacks]({{ site.baseurl }}{% link pages/romhacks.md %})
 
 [Links]({{ site.baseurl }}{% link pages/links.md %})
