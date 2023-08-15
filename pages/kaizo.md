@@ -7,6 +7,8 @@ categories: speedrun kaizo romhacks
 
 | Title | Author | Date | Patch | Link |
  ---- | ------ | ---- | ---- | ----- 
+| Super Mandil Bros. 3.0 | ramheroe | 2023-07-01 | [ips]({{ site.baseurl }}/assets/patches/kaizo/Super Mandil Bros 3.0.ips) | [facebook.com](https://www.facebook.com/ramheroe/posts/1731252900647156/) |
+| Super Fraud Bros | nerdalert | 2023-06-15 | [ips]({{ site.baseurl }}/assets/patches/kaizo/Super_Fraud_Bros.ips) | [rh.net](https://www.romhacking.net/hacks/7880/) |
 | The Arobam Adventures | Jabem | 2022-06-13 | [ips]({{ site.baseurl }}/assets/patches/kaizo/SMB3AA 2.0.ips) | [rh.net](https://www.romhacking.net/hacks/6511/) |
 | Kawa Mario Bros. 3.0 | ramheroe | 2022-05-13 | [ips]({{ site.baseurl }}/assets/patches/kaizo/Kawa Mario Bros 3.0.ips) | |
 | Git Up, Git Out, Git Gud | wilsonpenn | 2022-02-03 | [ips]({{ site.baseurl }}/assets/patches/kaizo/git_up_git_out_git_gud_v2_01.ips) | [rh.net](https://www.romhacking.net/hacks/6424/) |
