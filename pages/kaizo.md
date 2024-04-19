@@ -7,6 +7,8 @@ categories: speedrun kaizo romhacks
 
 | Title | Author | Date | Patch | Link |
  ---- | ------ | ---- | ---- | ----- 
+| Super Bell-IKO | neb_simmons | 2024-04-06 | [ips]({{ site.baseurl }}/assets/patches/kaizo/Super_Bell-iko_3.ips) | [rh.net](https://www.romhacking.net/hacks/8549/)
+| Goth Bros | nerdalert | 2024-03-24 | [ips]({{ site.baseurl }}/assets/patches/kaizo/GOTHBROS_v1.0.ips) | [rh.net](https://www.romhacking.net/hacks/8519/)
 | Econo | neb_simmons | 2023-11-11 | [ips]({{ site.baseurl }}/assets/patches/kaizo/Econo v1 ips patch.ips) | [rh.net](https://www.romhacking.net/hacks/8220/)
 | Super Mandil Bros. 3.0 | ramheroe | 2023-07-01 | [ips]({{ site.baseurl }}/assets/patches/kaizo/Super Mandil Bros 3.0.ips) | [facebook.com](https://www.facebook.com/ramheroe/posts/1731252900647156/) [local]({{ site.baseurl }}{% link pages/super_mandil_bros_3.0.md %}) |
 | Super Fraud Bros | nerdalert | 2023-06-15 | [ips]({{ site.baseurl }}/assets/patches/kaizo/Super_Fraud_Bros.ips) | [rh.net](https://www.romhacking.net/hacks/7880/) |
