@@ -8,6 +8,7 @@ categories: speedrun kaizo romhacks
 | Title | Author | Date | Patch | Link |
  ---- | ------ | ---- | ---- | ----- 
 | Super Fraud Bros 2 | nerdalert | 2024-07-26 | [ips]({{ site.baseurl }}/assets/patches/kaizo/Super_Fraud_Bros2_v1.1.ips) | [smwcentral.net](https://www.smwcentral.net/?p=viewthread&t=127889/)
+| Kozy Kaizo Bros | Bluefinch | 2024-07-19 | [bps]({{ site.baseurl }}/assets/patches/kaizo/KozyKaizoBros1.zip) | [rh.net](https://www.romhacking.net/hacks/8754/)
 | Super Bell-IKO | berna lark | 2024-04-06 | [ips]({{ site.baseurl }}/assets/patches/kaizo/Super_Bell-iko_3.ips) | [rh.net](https://www.romhacking.net/hacks/8549/)
 | Goth Bros | nerdalert | 2024-03-24 | [ips]({{ site.baseurl }}/assets/patches/kaizo/GOTHBROS_v1.0.ips) | [rh.net](https://www.romhacking.net/hacks/8519/)
 | smb3phd | slothbear | 2024-02-12 | [ips]({{ site.baseurl }}/assets/patches/kaizo/SMBPHD v1.ips) | [rh.net](https://www.romhacking.net/hacks/8443/)
